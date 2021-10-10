@@ -82,13 +82,14 @@ def predict(df, dv, model):
     return y_pred
 
 
-
+print(f'Doing validation with C={C}')
 
 # validation
 kfold = KFold(n_splits=n_splits, shuffle=True, random_state=1)
 
 scores = []
 
+fold = 0 
 for train_idx, val_idx in kfold.split(df_full_train):
     df_train = df_full_train.iloc[train_idx]
     df_val = df_full_train.iloc[val_idx]
@@ -101,7 +102,11 @@ for train_idx, val_idx in kfold.split(df_full_train):
 
     auc = roc_auc_score(y_val, y_pred)
     scores.append(auc)
+    print(f'auc on fold {fold } is {auc} ')
+    fold = fold +1 
 
+
+print('Validation results:')
 print('C=%s %.3f +- %.3f' % (C, np.mean(scores), np.std(scores)))
 
 
@@ -117,7 +122,9 @@ y_pred= predict(df_test,dv,model)
 y_test = df_test.churn.values
 
 auc = roc_auc_score(y_test,y_pred)
-auc 
+
+
+print(f'auc={auc}')
 
 # %% [markdown]
 # # Overview
@@ -129,5 +136,6 @@ auc
 with open(output_file,'wb') as f_out:
     pickle.dump((dv,model),f_out)
     #file open  
-    
+
+print(f'the model is saved to {output_file}')
 # file closed
