@@ -10,12 +10,10 @@ ML ZoomCamp
 This repo is based on  Machine Learning Zoomcamp
 by [1]: https://github.com/alexeygrigorev/mlbookcamp-code "Alexey Grigorev"
 
-Week | Topic | Homework Done 
-:------------ | :-------------| :-------------| :-------------
-substr | :heavy_check_mark: |  :white_check_mark: 
 
 
-| Task           | Time required | Assigned to   | Current Status | Finished | 
+
+| Week           | Time required | Homework   | Current Status | Finished | 
 |----------------|---------------|---------------|----------------|-----------|
 | Calendar Cache | > 5 hours  |  | in progress | - [x] ok?
 | Object Cache   | > 5 hours  |  | in progress | [x] item1<br/>[ ] item2
