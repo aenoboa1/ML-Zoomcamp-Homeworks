@@ -14,7 +14,7 @@ by [1]: https://github.com/alexeygrigorev/mlbookcamp-code "Alexey Grigorev"
 
 
 | Week/Chapter          | Topic         | Homework   | Current Status | Link | 
-|----------------|---------------|---------------|---------------|----------------|-----------|
+|----------------|---------------|---------------|---------------|-----------|
 | 1 | Introduction to Machine Learning | [ Questions readme](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/01-intro/homework.md) | :white_check_mark: Done |  [Chapter 1](https://github.com/aenoboa1/ml_zoomcamp_homeworks/blob/main/WEEK%201/homework.ipynb)
 | 2 | Machine Learning for Regression   | [Questions readme](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/02-regression/homework.md) |  :white_check_mark: Done |  [Chapter 2](https://github.com/aenoboa1/ml_zoomcamp_homeworks/blob/main/WEEK%202/homework.ipynb) 
 | 3 | Machine Learning for Classification | [Questions readme](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/03-classification/homework.md) |  :white_check_mark:  Done|  [Chapter 3](https://github.com/aenoboa1/ml_zoomcamp_homeworks/blob/main/WEEK%203/Homework.ipynb) |
