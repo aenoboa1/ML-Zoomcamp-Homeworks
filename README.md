@@ -10,3 +10,6 @@ ML ZoomCamp
 This repo is based on  Machine Learning Zoomcamp
 by [1]: https://github.com/alexeygrigorev/mlbookcamp-code "Alexey Grigorev"
 
+Week | Topic | Homework Done 
+:------------ | :-------------| :-------------| :-------------
+substr | :heavy_check_mark: |  :white_check_mark: 
