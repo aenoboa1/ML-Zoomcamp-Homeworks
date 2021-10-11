@@ -13,9 +13,14 @@ by [1]: https://github.com/alexeygrigorev/mlbookcamp-code "Alexey Grigorev"
 
 
 
-| Week           | Topic         | Time required | Homework   | Current Status | Finished | 
+| Week/Chapter          | Topic         | Time required | Homework   | Current Status | Finished | 
 |----------------|---------------|---------------|---------------|----------------|-----------|
-| Calendar Cache |               | > 5 hours     | in progress | - [x] ok?
-| Object Cache   |               | > 5 hours     | in progress | [x] item1<br/>[ ] item2
-| Object Cache   |               | > 5 hours     | in progress | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
-| Object Cache   |                | > 5 hours     | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
+| 1 | Introduction to Machine Learning | < 2 hours     | Done | - [x] ok?
+| 2 | Machine Learning for Regression   | > 5 hours     | Done | [x] item1<br/>[ ] item2
+| 3 | Machine Learning for Classification | > 5 hours     | Done | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
+| 4 | Evaluation Metrics for Classification | > 5 hours     | Done | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
+| 5 | Deploying Machine Learning Models | > 5 hours     | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
+| 6 | Decision Trees and Ensemble Learning | > 5 hours     | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
+| 7 | Neural Networks and Deep Learning | > 5 hours     | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
+| 8 | Serverless Deep Learning | > 5 hours     | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
+| 9 | Kubernetes and Kubeflow| > 5 hours     | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
