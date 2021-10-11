@@ -1,4 +1,4 @@
-# ml_zoomcamp_homeworks
+# Machine Learning Zoomcamp Homeworks 
 
 Homeworks, Midterm, & Capstone Project
 Machine Learning Zoomcamp
