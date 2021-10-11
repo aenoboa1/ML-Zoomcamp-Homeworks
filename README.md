@@ -1,8 +1,6 @@
 # Machine Learning Zoomcamp Homeworks 
 
-Homeworks, Midterm, & Capstone Project
-Machine Learning Zoomcamp
-ML ZoomCamp
+Homeworks, Midterm & Capstone Project From `Machine Learning Zoomcamp`
 
 ![image](https://user-images.githubusercontent.com/56968012/136817041-65ef4f58-045d-46af-b25b-36339f0229fd.png)
 
