@@ -18,6 +18,7 @@ by [1]: https://github.com/alexeygrigorev/mlbookcamp-code "Alexey Grigorev"
 | 3 | Machine Learning for Classification | [Questions readme](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/03-classification/homework.md) |  :white_check_mark:  Done|  [Chapter 3](https://github.com/aenoboa1/ml_zoomcamp_homeworks/blob/main/WEEK%203/Homework.ipynb) |
 | 4 | Evaluation Metrics for Classification | [Questions readme](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/04-evaluation/homework.md) | :white_check_mark: Done | [Chapter 4](https://github.com/aenoboa1/ml_zoomcamp_homeworks/blob/main/WEEK%204/homework.ipynb)
 | 5 | Deploying Machine Learning Models | [Questions readme](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/05-deployment/homework.md) |:white_check_mark: Done |  [Chapter 5 ](https://github.com/aenoboa1/ml_zoomcamp_homeworks/tree/main/WEEK%205/Homework)
+| 6 | Decision Trees and Ensemble Learning | In progress |🔳In progress |  In progress  ❌ 
 | 7 | Midterm Project | In progress |🔳In progress |  In progress  ❌ 
 | 8 | Decision Trees and Ensemble Learning | In progress |🔳In progress |  In progress  ❌ 
 | 9 | Neural Networks and Deep Learning | In progress |🔳In progress | In progress ❌ 
