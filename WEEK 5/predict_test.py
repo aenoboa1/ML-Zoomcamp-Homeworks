@@ -8,7 +8,7 @@ import requests
 
 
 # %%
-host = 'churn-serving-env-1.eba-s3rq244h.us-east-2.elasticbeanstalk.com'
+#host = 'churn-serving-env-1.eba-s3rq244h.us-east-2.elasticbeanstalk.com'
 url = f'http://{host}/predict'
 
 
